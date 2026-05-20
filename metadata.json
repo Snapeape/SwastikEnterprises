@@ -1,0 +1,6 @@
+{
+  "name": "Swastik Enterprises",
+  "description": "Authorized UTL Solar dealer & solar energy equipment supplier in Lucknow, Uttar Pradesh. Best residential & commercial panels, inverters, and battery setups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
